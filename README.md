@@ -1,0 +1,2 @@
+# deepLearning
+javascript nn work
